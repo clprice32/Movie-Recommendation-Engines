@@ -16,7 +16,7 @@ Correlation matrix
 
 ## What's In This Repository?
 
-Item-Based Collaborative Filtering.ipynb (Jupyter Notebook)
+Item-Based Collaborative Filtering.ipynb (Jupyter Notebook) <br>
 Simple Movie Recommender.ipynb (Jupyter Notebook)
 
 ## Additional Resources
