@@ -20,5 +20,5 @@ Item-Based Collaborative Filtering.ipynb (Jupyter Notebook) <br>
 Simple Movie Recommender.ipynb (Jupyter Notebook)
 
 ## Additional Resources
-
-
+Item-Based Collaborative Filtering: https://www.youtube.com/watch?v=PA1XIDSHldc <br>
+Simple Movie Recommender: https://www.youtube.com/watch?v=-8BrRnFzq_Y
